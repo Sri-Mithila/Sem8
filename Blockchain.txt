@@ -1,1 +1,13 @@
+Exp - 4 Remix Metamask - Samrt Contract 
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.17;
+
+contract test {
+    function get_output() public pure returns(string memory){
+        return ("Hi, your contract ran successfully");
+    }
+}
+
+-----------------------------------------------------------------------------------------
+
 
