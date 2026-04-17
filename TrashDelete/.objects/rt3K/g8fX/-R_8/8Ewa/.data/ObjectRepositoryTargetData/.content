@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="DLU1vGS4S0W1fMGoMR0pTg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="mail.google.com/mail/u/0" CVScreenId="34747e2f-47c4-449c-befe-c75e8ca4a0fb" CvElementArea="163, 752, 30, 27" CvType="ArrowButton" DesignTimeRectangle="163, 750, 32, 32" FullSelectorArgument="&lt;webctrl parentid=':nh' tag='DIV' /&gt;" Guid="560c06e4-56d9-4f19-b482-f92f14bab59b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Trash - srimithila.2253048@srec.ac.in - SRI RAMAKRISHNA ENGINEERING COLLEGE Mail' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="34747e2f-47c4-449c-befe-c75e8ca4a0fb" CvTextArea="217, 756, 55, 21" CvTextArgument="More" CvType="Text" DesignTimeRectangle="220, 752, 52, 28" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid=':nh' tag='SPAN' type='' class='CJ' aaname='More' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='More' /&gt;" Guid="7e243ae4-2075-40ef-b972-513d3fd22add" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a2ab0ecbf0170c133c3707f14d0f150b.png" xmlns="">0d-myehhPGEmtrE4p9Q6-vw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

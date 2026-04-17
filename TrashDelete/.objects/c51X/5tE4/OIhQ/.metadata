@@ -1,0 +1,13 @@
+﻿{
+  "Name": "uipath.studio.exe",
+  "Type": "Screen",
+  "Id": "OIhQcT-H8E6kttmOTqOd0Q",
+  "Reference": "a8pGY30vEE-W3ccBvnImTg/OIhQcT-H8E6kttmOTqOd0Q",
+  "ParentRef": "a8pGY30vEE-W3ccBvnImTg/5tE4aitf50mjqjqqgCD9Cw",
+  "Created": "2026-04-16T08:21:44.5788676Z",
+  "Updated": "2026-04-16T08:21:44.5788676Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

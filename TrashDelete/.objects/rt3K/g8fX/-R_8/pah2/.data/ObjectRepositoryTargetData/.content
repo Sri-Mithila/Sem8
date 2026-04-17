@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="NmJ1ZA6Pk0enLsSj9rKCyw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="mail.google.com/mail/u/0" CVScreenId="42951750-ccd0-4ddd-8c43-13633d862571" CvTextArea="1546, 499, 183, 26" CvTextArgument="Empty Trash now" CvType="Text" DesignTimeRectangle="1536, 480, 205, 58" ElementType="Text" FullSelectorArgument="&lt;webctrl aria-role='button' parentid=':1' tag='SPAN' /&gt;" Guid="ccf6f05b-7908-49cd-8548-8a6bc1b9b51a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Trash - srimithila.2253048@srec.ac.in - SRI RAMAKRISHNA ENGINEERING COLLEGE Mail' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="42951750-ccd0-4ddd-8c43-13633d862571" CvTextArea="690, 499, 1039, 26" CvTextArgument="Messages that have been in Trash more than 30 days will be automatically deleted. Empty Trash now" CvType="Text" DesignTimeRectangle="527, 471, 1378, 77" FuzzySelectorArgument="&lt;webctrl class='ya' parentid=':1' tag='DIV' type='' aaname='Messages that have been in Trash more than 30 days will be automatically deleted.' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Messages that have been in Trash more than 30 days will be automatically deleted.&amp;#xA;Empty Trash now' /&gt;" Guid="e826fc8b-ba17-4ef5-9588-aae797f92080" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="52ed7dc9b8f9f00ead5837860c0b134d.png" xmlns="">0Wey5OA7mnEmF7Z0gB8NLDQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

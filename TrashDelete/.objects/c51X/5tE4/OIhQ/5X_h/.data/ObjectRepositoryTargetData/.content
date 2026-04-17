@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="WIpZzd66OUqDAnPpmhDvbg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="mail.google.com/mail/u/0" CVScreenId="0fda6209-f58b-4c3c-a311-9381b99df9ea" CvTextArea="1546, 499, 183, 26" CvTextArgument="Empty Trash now" CvType="Text" DesignTimeRectangle="1536, 480, 205, 58" ElementType="Text" FullSelectorArgument="&lt;webctrl id=':tt' tag='SPAN' /&gt;" Guid="4bd37fd4-f1da-4d18-87c9-c0100fe713cc" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Trash - srimithila.2253048@srec.ac.in - SRI RAMAKRISHNA ENGINEERING COLLEGE Mail' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3e81ad0c9c57a0a73908892559ed1aca.png" xmlns="">0MPeOGcDXckOqr5KjTwDyyA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

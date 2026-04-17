@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="bEiMNV06D0eehRQ98IPsSA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="mail.google.com/mail/u/0" CVScreenId="8338f670-c1c2-4ab3-9480-256343114380" CvElementArea="524, 213, 633, 80" CvType="InputBox" DesignTimeRectangle="615, 237, 391, 32" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tableRow='1' tag='TABLE' /&gt;&lt;webctrl tableRow='1' tag='INPUT' /&gt;" Guid="c7f6e71d-711b-4ba9-a12a-aade37ee7569" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Inbox (2,570) - srimithila.2253048@srec.ac.in - SRI RAMAKRISHNA ENGINEERING COLLEGE Mail' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="14601ae7b5b5cce7b3b12a9d32c22d2f.png" xmlns="">0n_W4aXGP-0WqTx_JSomHsQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">KeyboardShortcut</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,169 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="Main" VisualBasic.Settings="{x:Null}" sap2010:WorkflowViewState.IdRef="ActivityBuilder_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=System.Private.CoreLib" xmlns:uix="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Collections.ObjectModel</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>System.Windows.Markup</x:String>
+      <x:String>GlobalVariablesNamespace</x:String>
+      <x:String>GlobalConstantsNamespace</x:String>
+      <x:String>System.Runtime.Serialization</x:String>
+      <x:String>UiPath.UIAutomationNext.Enums</x:String>
+      <x:String>UiPath.UIAutomationCore.Contracts</x:String>
+      <x:String>UiPath.UIAutomationNext.Models</x:String>
+      <x:String>UiPath.UIAutomationNext.Activities</x:String>
+      <x:String>UiPath.Shared.Activities</x:String>
+      <x:String>UiPath.Platform.ObjectLibrary</x:String>
+      <x:String>UiPath.Platform.SyncObjects</x:String>
+      <x:String>UiPath.UIAutomationNext.Activities.Models</x:String>
+      <x:String>UiPath.UIAutomationNext.Contracts</x:String>
+      <x:String>UiPath.UIAutomationNext.Models.CV</x:String>
+      <x:String>System.ComponentModel</x:String>
+      <x:String>System.Security</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>PresentationCore</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.TypeConverter</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Data.Common</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Drawing.Common</AssemblyReference>
+      <AssemblyReference>System.Drawing.Primitives</AssemblyReference>
+      <AssemblyReference>System.Linq</AssemblyReference>
+      <AssemblyReference>System.Net.Mail</AssemblyReference>
+      <AssemblyReference>System.ObjectModel</AssemblyReference>
+      <AssemblyReference>System.Private.CoreLib</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
+      <AssemblyReference>UiPath.Studio.Constants</AssemblyReference>
+      <AssemblyReference>System.Private.ServiceModel</AssemblyReference>
+      <AssemblyReference>System.Private.DataContractSerialization</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Formatters</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Primitives</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationCore</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.OCR.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Platform</AssemblyReference>
+      <AssemblyReference>System.ComponentModel</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.EventBasedAsync</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.Primitives</AssemblyReference>
+      <AssemblyReference>System.Security.Permissions</AssemblyReference>
+      <AssemblyReference>System.Runtime.InteropServices</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="897.2,1481.6" sap2010:WorkflowViewState.IdRef="Sequence_1">
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Chrome Trash - srimithila.2253048@srec.ac.in" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="483.2,1458.4" sap2010:WorkflowViewState.IdRef="NApplicationCard_4" InteractionMode="DebuggerApi" ScopeGuid="99a52a10-3dec-4765-90a5-38743473f16a" Version="V2">
+      <uix:NApplicationCard.Body>
+        <ActivityAction x:TypeArguments="x:Object">
+          <ActivityAction.Argument>
+            <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
+          </ActivityAction.Argument>
+          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="449.6,1215.2" sap2010:WorkflowViewState.IdRef="Sequence_5">
+            <sap:WorkflowViewStateService.ViewState>
+              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+              </scg:Dictionary>
+            </sap:WorkflowViewStateService.ViewState>
+            <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" ClipboardMode="Never" DisplayName="Type Into 'tab'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,296.8" sap2010:WorkflowViewState.IdRef="NTypeInto_1" ScopeIdentifier="99a52a10-3dec-4765-90a5-38743473f16a" Text="in:trash" Version="V5">
+              <uix:NTypeInto.Target>
+                <uix:TargetAnchorable BrowserURL="mail.google.com/mail/u/0" CVScreenId="0c305b9e-9843-4ba5-a11b-885075fb58da" ContentHash="JrPhXZ4DekiGagLJ7BLXog" CvElementArea="523, 213, 633, 81" CvType="InputBox" DesignTimeRectangle="615, 215, 391, 73" FullSelectorArgument="&lt;webctrl parentid='aso_search_form_anchor' tag='DIV' /&gt;" Guid="c3216f84-beb0-42fd-8c50-9e20adc1b0c0" InformativeScreenshot="79b0e4fc2453a6801f3118eda965c18c.png" Reference="a8pGY30vEE-W3ccBvnImTg/HGnDDxY870q3cK3miTSFyQ" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Trash - srimithila.2253048@srec.ac.in - SRI RAMAKRISHNA ENGINEERING COLLEGE Mail' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive" />
+              </uix:NTypeInto.Target>
+              <uix:NTypeInto.VerifyOptions>
+                <uix:VerifyExecutionTypeIntoOptions DisplayName="{x:Null}" Mode="Appears">
+                  <uix:VerifyExecutionTypeIntoOptions.Retry>
+                    <InArgument x:TypeArguments="x:Boolean" />
+                  </uix:VerifyExecutionTypeIntoOptions.Retry>
+                  <uix:VerifyExecutionTypeIntoOptions.Timeout>
+                    <InArgument x:TypeArguments="x:Double" />
+                  </uix:VerifyExecutionTypeIntoOptions.Timeout>
+                </uix:VerifyExecutionTypeIntoOptions>
+              </uix:NTypeInto.VerifyOptions>
+            </uix:NTypeInto>
+            <uix:NKeyboardShortcuts ActivateBefore="True" ClickBeforeMode="None" DisplayName="Keyboard Shortcuts 'Input 'intrash''" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,272.8" sap2010:WorkflowViewState.IdRef="NKeyboardShortcuts_1" ScopeIdentifier="99a52a10-3dec-4765-90a5-38743473f16a" Shortcuts="[d(hk)][k(Enter)][u(hk)]" Version="V5">
+              <uix:NKeyboardShortcuts.Target>
+                <uix:TargetAnchorable BrowserURL="mail.google.com/mail/u/0" CVScreenId="8338f670-c1c2-4ab3-9480-256343114380" ContentHash="bEiMNV06D0eehRQ98IPsSA" CvElementArea="524, 213, 633, 80" CvType="InputBox" DesignTimeRectangle="615, 237, 391, 32" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tableRow='1' tag='TABLE' /&gt;&lt;webctrl tableRow='1' tag='INPUT' /&gt;" Guid="c7f6e71d-711b-4ba9-a12a-aade37ee7569" InformativeScreenshot="14601ae7b5b5cce7b3b12a9d32c22d2f.png" Reference="a8pGY30vEE-W3ccBvnImTg/dcD7iHtYXEWY9Y2PsueHmQ" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Inbox (2,570) - srimithila.2253048@srec.ac.in - SRI RAMAKRISHNA ENGINEERING COLLEGE Mail' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive" />
+              </uix:NKeyboardShortcuts.Target>
+            </uix:NKeyboardShortcuts>
+            <Delay Duration="00:00:02" sap:VirtualizedContainerService.HintSize="416,127.2" sap2010:WorkflowViewState.IdRef="Delay_7" />
+            <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Empty Trash now'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,232" sap2010:WorkflowViewState.IdRef="NClick_11" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="99a52a10-3dec-4765-90a5-38743473f16a" Version="V5">
+              <uix:NClick.Target>
+                <uix:TargetAnchorable BrowserURL="mail.google.com/mail/u/0" CVScreenId="42951750-ccd0-4ddd-8c43-13633d862571" ContentHash="NmJ1ZA6Pk0enLsSj9rKCyw" CvTextArea="1546, 499, 183, 26" CvTextArgument="Empty Trash now" CvType="Text" DesignTimeRectangle="1536, 480, 205, 58" ElementType="Text" FullSelectorArgument="&lt;webctrl aria-role='button' parentid=':1' tag='SPAN' /&gt;" Guid="ccf6f05b-7908-49cd-8548-8a6bc1b9b51a" InformativeScreenshot="52ed7dc9b8f9f00ead5837860c0b134d.png" Reference="a8pGY30vEE-W3ccBvnImTg/pah2h2wUEke7gzSyUWVz5A" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Trash - srimithila.2253048@srec.ac.in - SRI RAMAKRISHNA ENGINEERING COLLEGE Mail' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+                  <uix:TargetAnchorable.Anchors>
+                    <scg:List x:TypeArguments="uix:ITarget" Capacity="4">
+                      <uix:Target CVScreenId="42951750-ccd0-4ddd-8c43-13633d862571" CvTextArea="690, 499, 1039, 26" CvTextArgument="Messages that have been in Trash more than 30 days will be automatically deleted. Empty Trash now" CvType="Text" DesignTimeRectangle="527, 471, 1378, 77" FuzzySelectorArgument="&lt;webctrl class='ya' parentid=':1' tag='DIV' type='' aaname='Messages that have been in Trash more than 30 days will be automatically deleted.' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Messages that have been in Trash more than 30 days will be automatically deleted.&amp;#xA;Empty Trash now' /&gt;" Guid="e826fc8b-ba17-4ef5-9588-aae797f92080" SearchSteps="FuzzySelector, CV" />
+                    </scg:List>
+                  </uix:TargetAnchorable.Anchors>
+                </uix:TargetAnchorable>
+              </uix:NClick.Target>
+              <uix:NClick.VerifyOptions>
+                <uix:VerifyExecutionOptions DisplayName="{x:Null}" Mode="Appears">
+                  <uix:VerifyExecutionOptions.Retry>
+                    <InArgument x:TypeArguments="x:Boolean" />
+                  </uix:VerifyExecutionOptions.Retry>
+                  <uix:VerifyExecutionOptions.Timeout>
+                    <InArgument x:TypeArguments="x:Double" />
+                  </uix:VerifyExecutionOptions.Timeout>
+                </uix:VerifyExecutionOptions>
+              </uix:NClick.VerifyOptions>
+            </uix:NClick>
+            <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'SPAN'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,224.8" sap2010:WorkflowViewState.IdRef="NClick_12" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="99a52a10-3dec-4765-90a5-38743473f16a" Version="V5">
+              <uix:NClick.Target>
+                <uix:TargetAnchorable BrowserURL="mail.google.com/mail/u/0" CVScreenId="5300ad00-67bd-4c86-9aa9-5c3bb732ff3e" ContentHash="_rE8C6yyOE64Llmlil-pgA" CvElementArea="1266, 760, 118, 70" CvTextArea="1306, 782, 37, 22" CvTextArgument="OK" CvType="Button" DesignTimeRectangle="1271, 762, 109, 64" FullSelectorArgument="&lt;webctrl class='UTNHae' idx='2' tag='SPAN' /&gt;" Guid="fe9c4d87-0248-4a42-87c7-768ab3465091" InformativeScreenshot="c5f8f23403c7aebbb1213c038c64babe.png" Reference="a8pGY30vEE-W3ccBvnImTg/cYFmuo0TcEC-cmbxO0818Q" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Trash - srimithila.2253048@srec.ac.in - SRI RAMAKRISHNA ENGINEERING COLLEGE Mail' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive" />
+              </uix:NClick.Target>
+              <uix:NClick.VerifyOptions>
+                <uix:VerifyExecutionOptions DisplayName="{x:Null}" Mode="Appears">
+                  <uix:VerifyExecutionOptions.Retry>
+                    <InArgument x:TypeArguments="x:Boolean" />
+                  </uix:VerifyExecutionOptions.Retry>
+                  <uix:VerifyExecutionOptions.Timeout>
+                    <InArgument x:TypeArguments="x:Double" />
+                  </uix:VerifyExecutionOptions.Timeout>
+                </uix:VerifyExecutionOptions>
+              </uix:NClick.VerifyOptions>
+            </uix:NClick>
+          </Sequence>
+        </ActivityAction>
+      </uix:NApplicationCard.Body>
+      <uix:NApplicationCard.TargetApp>
+        <uix:TargetApp Area="-9, -9, 1938, 1218" BrowserType="Chrome" ContentHash="LmsI8Nae-EOjSEfzdpzvFQ" IconBase64="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" InformativeScreenshot="e84a0dc23fd5fec79fe11f8e92445919.jpg" Reference="a8pGY30vEE-W3ccBvnImTg/-R_8uHS67E-F_8UqRq2a6w" Selector="&lt;html app='chrome.exe' title='Inbox (2,570) - srimithila.2253048@srec.ac.in - SRI RAMAKRISHNA ENGINEERING COLLEGE Mail' /&gt;" Url="https://mail.google.com/mail/u/0/#inbox" Version="V2" />
+      </uix:NApplicationCard.TargetApp>
+    </uix:NApplicationCard>
+  </Sequence>
+</Activity>

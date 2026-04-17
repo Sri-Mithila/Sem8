@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="v8_1Rvw0tkqeWf0o3lbx7A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="mail.google.com/mail/u/0" CVScreenId="e2a18ed1-1b13-44ec-9269-17768779a6b3" CvElementArea="1265, 759, 119, 72" CvTextArea="1306, 782, 37, 22" CvTextArgument="OK" CvType="Button" DesignTimeRectangle="1309, 780, 32, 28" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='OK' class='mUIrbf-anl' tag='SPAN' type='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='OK' /&gt;" Guid="35b5dafa-cdeb-434a-a8da-88429a331f5a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Trash - srimithila.2253048@srec.ac.in - SRI RAMAKRISHNA ENGINEERING COLLEGE Mail' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e2a18ed1-1b13-44ec-9269-17768779a6b3" CvElementArea="1265, 759, 119, 72" CvTextArea="1306, 782, 37, 22" CvTextArgument="OK" CvType="Button" DesignTimeRectangle="1271, 762, 109, 64" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='OK' tag='BUTTON' type='' class='mUIrbf-I mUIrbf-I-ql-Uw eV8l8d' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='OK' /&gt;" Guid="bbd3e38b-2bf5-4ac2-bf64-b802b138b9ad" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="479b85ed6cc523288bab9472d757b357.png" xmlns="">0KsPelnDWzUKAl39tPIimGw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

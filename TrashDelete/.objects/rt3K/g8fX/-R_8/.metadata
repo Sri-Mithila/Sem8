@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Trash - srimithila.2253048@srec.ac.in ",
+  "Type": "Screen",
+  "Id": "-R_8uHS67E-F_8UqRq2a6w",
+  "Reference": "a8pGY30vEE-W3ccBvnImTg/-R_8uHS67E-F_8UqRq2a6w",
+  "ParentRef": "a8pGY30vEE-W3ccBvnImTg/g8fX_nt3jkW-VCuEgKclTA",
+  "Created": "2026-04-13T16:36:54.1994487Z",
+  "Updated": "2026-04-13T16:36:54.1994487Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

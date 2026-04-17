@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Empty Trash now",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "pah2h2wUEke7gzSyUWVz5A",
+  "Reference": "a8pGY30vEE-W3ccBvnImTg/pah2h2wUEke7gzSyUWVz5A",
+  "ParentRef": "a8pGY30vEE-W3ccBvnImTg/-R_8uHS67E-F_8UqRq2a6w",
+  "Created": "2026-04-17T19:22:42.5908268Z",
+  "Updated": "2026-04-17T19:22:42.5908268Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

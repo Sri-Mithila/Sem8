@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JrPhXZ4DekiGagLJ7BLXog" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="mail.google.com/mail/u/0" CVScreenId="0c305b9e-9843-4ba5-a11b-885075fb58da" CvElementArea="523, 213, 633, 81" CvType="InputBox" DesignTimeRectangle="615, 215, 391, 73" FullSelectorArgument="&lt;webctrl parentid='aso_search_form_anchor' tag='DIV' /&gt;" Guid="c3216f84-beb0-42fd-8c50-9e20adc1b0c0" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Trash - srimithila.2253048@srec.ac.in - SRI RAMAKRISHNA ENGINEERING COLLEGE Mail' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="79b0e4fc2453a6801f3118eda965c18c.png" xmlns="">0SfcMPgBT6kSYJmMRnPE_wQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

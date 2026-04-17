@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Inbox (2,569) - srimithila.2253048@sre",
+  "Type": "Screen",
+  "Id": "_d1S6Exz5E6jWRhkBEc1kg",
+  "Reference": "SNhdhdl__kiF1nN745CdVw/_d1S6Exz5E6jWRhkBEc1kg",
+  "ParentRef": "SNhdhdl__kiF1nN745CdVw/2XI2FnzdF0uTRz8L5oEFAA",
+  "Created": "2026-04-17T17:59:13.700411Z",
+  "Updated": "2026-04-17T17:59:13.700411Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
