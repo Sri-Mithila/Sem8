@@ -1,0 +1,14 @@
+﻿{
+  "Name": "CGPA",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "_s8WVh_DnUaqjZ5IyJUvSQ",
+  "Reference": "1ez2AMQguU2NJQFEk1aFDQ/_s8WVh_DnUaqjZ5IyJUvSQ",
+  "ParentRef": "1ez2AMQguU2NJQFEk1aFDQ/7HFKSPxKg02AIz6jpAKalA",
+  "Created": "2026-04-18T16:11:20.925331Z",
+  "Updated": "2026-04-18T16:11:20.925331Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

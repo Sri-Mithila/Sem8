@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="5p-BBOckbEGg07VPsfOoMw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/d/e/1FAIpQLSfJBnwhPv7NClh_TxwM_nXXMHp-Y4F8_iJ9wsgXU4Q0GNbLnw/viewform" CVScreenId="d0a5f8ab-bffd-4599-88d3-1119a46b2571" CvElementArea="479, 845, 482, 48" CvType="InputBox" DesignTimeRectangle="485, 852, 473, 38" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl aria-labelledby='i6 i9' tag='INPUT' type='text' class='whsOnd zHQkBf' aaname='' matching:aria-labelledby='fuzzy' fuzzylevel:aria-labelledby='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="64733557-a1bd-47d1-8456-fcbdbfba646e" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Blank Quiz' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d0a5f8ab-bffd-4599-88d3-1119a46b2571" CvTextArea="484, 771, 143, 26" CvTextArgument="Roll Number" CvType="Text" DesignTimeRectangle="485, 766, 141, 38" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='i6' tag='SPAN' type='' class='M7eMe' aaname='Roll Number' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Roll Number' /&gt;" Guid="200755c8-3e21-44d4-94cc-15648cdf7e49" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="da197b8db9793b9067a7e897d73fc126.png" xmlns="">0nG5juhbYtkGR14dTLmxiXQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

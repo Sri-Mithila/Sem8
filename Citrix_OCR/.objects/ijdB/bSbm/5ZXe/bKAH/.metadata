@@ -1,0 +1,13 @@
+﻿{
+  "Name": "photos.exe WhatsApp Ima…",
+  "Type": "Element",
+  "Id": "bKAHueoiakCGzhPxkkYh7A",
+  "Reference": "p7jj15geWUeLFGeljMdK1Q/bKAHueoiakCGzhPxkkYh7A",
+  "ParentRef": "p7jj15geWUeLFGeljMdK1Q/5ZXe8RAxXECcblwXrnV19Q",
+  "Created": "2026-04-18T17:03:16.2531781Z",
+  "Updated": "2026-04-18T17:03:16.2531781Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Your answer",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "l1eA57hWpU25IzPOtDzG0g",
+  "Reference": "p7jj15geWUeLFGeljMdK1Q/l1eA57hWpU25IzPOtDzG0g",
+  "ParentRef": "p7jj15geWUeLFGeljMdK1Q/5ZXe8RAxXECcblwXrnV19Q",
+  "Created": "2026-04-18T17:10:00.733436Z",
+  "Updated": "2026-04-18T17:10:00.733436Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

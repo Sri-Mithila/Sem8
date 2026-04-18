@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="cgVfj0_L8Um27QYxeNgPiQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/d/e/1FAIpQLSfJBnwhPv7NClh_TxwM_nXXMHp-Y4F8_iJ9wsgXU4Q0GNbLnw/viewform" CVScreenId="1f8522a2-f499-4946-9b99-6bfc40e5a26d" CvElementArea="444, 877, 157, 61" CvTextArea="482, 895, 80, 23" CvTextArgument="Submit" CvType="Button" DesignTimeRectangle="447, 879, 153, 57" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span' tag='SPAN' /&gt;" Guid="f84f019e-a041-4f53-ab61-61a35941e6eb" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Blank Quiz' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1f8522a2-f499-4946-9b99-6bfc40e5a26d" CvElementArea="444, 877, 157, 61" CvTextArea="482, 895, 80, 23" CvTextArgument="Submit" CvType="Button" DesignTimeRectangle="485, 879, 76, 57" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Submit' tag='SPAN' type='' class='NPEfkd RveJvd snByac' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Submit' /&gt;" Guid="4d1d887b-bcc1-47ab-9fa1-e00fcf1d4b83" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3a6c9ccadb33e55f1dcc8585fcef19e0.png" xmlns="">0_k8n3POvOkmBaIvrunxoYg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

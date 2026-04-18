@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Lo6oGl-zLkW-U0ty8Obl0w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/d/e/1FAIpQLSfJBnwhPv7NClh_TxwM_nXXMHp-Y4F8_iJ9wsgXU4Q0GNbLnw/viewform" CVScreenId="de76f8af-6b5d-4877-af9c-82dec086f16b" CvTextArea="484, 771, 143, 26" CvTextArgument="Roll Number" CvType="Text" DesignTimeRectangle="485, 766, 141, 38" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='i6' tag='SPAN' /&gt;" Guid="5df4d731-ee2f-424f-84ee-74d32f8c548c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Blank Quiz' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="de76f8af-6b5d-4877-af9c-82dec086f16b" CvElementArea="479, 845, 482, 48" CvType="InputBox" DesignTimeRectangle="485, 855, 127, 32" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Your answer' type='' tag='DIV' class='ndJi5d snByac' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Your answer' /&gt;" Guid="3cc157b7-fe26-4e8a-acf1-42bd84b75ab3" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="99fbf7e2bbca1cabc050e0021bf9b75a.png" xmlns="">01N88Pwo3ckupmYM490HV3A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

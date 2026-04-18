@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="22ShRdt84EyYIfgwWYiH9w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/d/e/1FAIpQLSfJBnwhPv7NClh_TxwM_nXXMHp-Y4F8_iJ9wsgXU4Q0GNbLnw/viewform" CVScreenId="9355db23-b782-4152-aa27-f1e126359455" CvElementArea="479, 605, 482, 49" CvType="InputBox" DesignTimeRectangle="485, 613, 473, 39" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Your answer' tag='DIV' type='' class='ndJi5d snByac' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Your answer' /&gt;" Guid="14559b46-6dc1-4eca-8e81-b3168a17b324" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Blank Quiz' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9355db23-b782-4152-aa27-f1e126359455" CvTextArea="484, 534, 71, 23" CvTextArgument="Name" CvType="Text" DesignTimeRectangle="485, 527, 69, 38" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='i1' tag='SPAN' type='' class='M7eMe' aaname='Name' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Name' /&gt;" Guid="38edc536-106b-4f6e-a8bb-96dcf913d6af" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="855aad4f1c50c3b76f45118b26f69246.png" xmlns="">0K60X5TGw5ESnEgg4MkkNPQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

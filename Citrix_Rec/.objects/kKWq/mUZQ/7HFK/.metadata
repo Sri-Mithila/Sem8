@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Blank Quiz",
+  "Type": "Screen",
+  "Id": "7HFKSPxKg02AIz6jpAKalA",
+  "Reference": "1ez2AMQguU2NJQFEk1aFDQ/7HFKSPxKg02AIz6jpAKalA",
+  "ParentRef": "1ez2AMQguU2NJQFEk1aFDQ/mUZQbVXDe0SJ6prQzysHZA",
+  "Created": "2026-04-18T16:02:26.5170097Z",
+  "Updated": "2026-04-18T16:02:26.5170097Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

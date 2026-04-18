@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Roll Number(1)",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "sKTNmETdWUizGg2lIqNyJA",
+  "Reference": "1ez2AMQguU2NJQFEk1aFDQ/sKTNmETdWUizGg2lIqNyJA",
+  "ParentRef": "1ez2AMQguU2NJQFEk1aFDQ/7HFKSPxKg02AIz6jpAKalA",
+  "Created": "2026-04-18T16:10:40.3679738Z",
+  "Updated": "2026-04-18T16:10:40.3679738Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

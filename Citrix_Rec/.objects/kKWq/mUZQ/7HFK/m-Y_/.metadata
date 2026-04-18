@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Roll Number",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "m-Y_WJlcQkmODcd6sqOHGQ",
+  "Reference": "1ez2AMQguU2NJQFEk1aFDQ/m-Y_WJlcQkmODcd6sqOHGQ",
+  "ParentRef": "1ez2AMQguU2NJQFEk1aFDQ/7HFKSPxKg02AIz6jpAKalA",
+  "Created": "2026-04-18T16:04:10.6054177Z",
+  "Updated": "2026-04-18T16:04:10.6054177Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
